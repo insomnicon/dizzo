@@ -1,0 +1,23 @@
+{
+  "name": "dizzo",
+  "version": "0.0.1",
+  "description": "Discussion Board for Creativity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insomnicon/dizzo.git"
+  },
+  "author": "Insomnicon",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/insomnicon/dizzo/issues"
+  },
+  "homepage": "https://github.com/insomnicon/dizzo",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.18.2"
+  }
+}

@@ -1,0 +1,6 @@
+# Git shouldn't have anything to do with this...
+
+/node_modules/
+
+*.tmp
+
